@@ -1,6 +1,6 @@
 # Documentation
 ## Setup Steps
-* Our first database we will be working on is [Pagila](https://dataedo.com/samples/html/Pagila/doc/Pagila_10/modules.html)
+* Our first database we will be working on is [Pagila](https://dataedo.com/samples/html/Pagila/doc/Pagila_10/modules/Paglia_database_diagram_103/module.html)
 To download the file go to https://github.com/devrimgunduz/pagila/blob/master/pagila-insert-data.sql click in `Download` and then `right-click` -> `save page as...`. This file **MUST** be moved into `sql_queries/` folder. Or run the following command `curl -o sql_queries/pagila_database.sql https://raw.githubusercontent.com/devrimgunduz/pagila/master/pagila-insert-data.sql`
 
 * Our second database we'll be working on is [Chinook](https://docs.yugabyte.com/latest/sample-data/chinook/)
